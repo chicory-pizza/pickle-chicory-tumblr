@@ -1,0 +1,23 @@
+{
+  "name": "pickle-chicory-tumblr",
+  "description": "Custom CSS to complement the Tumblr theme for https://pickle.chicory.pizza",
+  "bugs": {
+    "email": "ngyikp@gmail.com"
+  },
+  "author": {
+    "name": "Ng Yik Phang (ngyikp)",
+    "email": "ngyikp@gmail.com",
+    "url": "https://ngyikp.com"
+  },
+  "private": true,
+  "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  },
+  "scripts": {
+    "prettier": "prettier ."
+  },
+  "devDependencies": {
+    "prettier": "2.6.2"
+  }
+}
