@@ -1,9 +1,9 @@
-/* https://www.dafont.com/domigorgon.font */
+/* Original font from https://www.dafont.com/domigorgon.font, Domigorgon Plus modified by Legendknight 3000 */
 @font-face {
 	font-family: 'Domigorgon';
-	src: url('https://temple.chicory.pizza/tumblr/domigorgon-webfont.woff2')
+	src: url('https://temple.chicory.pizza/tumblr/domigorgon_plus-webfont.woff2')
 			format('woff2'),
-		url('https://temple.chicory.pizza/tumblr/domigorgon-webfont.woff')
+		url('https://temple.chicory.pizza/tumblr/domigorgon_plus-webfont.woff')
 			format('woff');
 	font-weight: normal;
 	font-style: normal;
